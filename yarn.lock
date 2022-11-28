@@ -8362,7 +8362,7 @@
 
 "lg-button@file:/Users/guojiguang/Documents/project/devPro/lg-element/packages/button":
   "resolved" "file:packages/button"
-  "version" "0.0.1"
+  "version" "0.0.2"
 
 "libnpmaccess@^6.0.3":
   "integrity" "sha512-qZ3wcfIyUoW0+qSFkMBovcTrSGJ3ZeyvpR7d5N9pEYv/kXs8sHP2wiqEIXBKLFrZlmM0kR0RJD7mtfLngtlLag=="
