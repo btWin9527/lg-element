@@ -3,7 +3,6 @@
 </template>
 
 <script>
-import './button.css';
 
 export default {
   name: 'lgButton',
@@ -51,3 +50,8 @@ export default {
   },
 };
 </script>
+
+<style scoped>
+@import './button.css';
+
+</style>
