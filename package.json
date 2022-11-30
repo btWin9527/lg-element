@@ -13,7 +13,8 @@
     "build-storybook": "build-storybook",
     "lerna": "lerna publish",
     "build:prod": "cross-env NODE_ENV=production rollup -c",
-    "build:dev": "cross-env NODE_ENV=development rollup -c"
+    "build:dev": "cross-env NODE_ENV=development rollup -c",
+    "plop": "plop"
   },
   "keywords": [],
   "author": "",
@@ -22,6 +23,7 @@
     "vue": "^2.6.11"
   },
   "devDependencies": {
+    "plop": "^2.7.4",
     "rimraf": "^3.0.2",
     "cross-env": "^7.0.2",
     "@rollup/plugin-json": "^4.1.0",
